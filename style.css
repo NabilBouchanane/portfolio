@@ -1,92 +1,133 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
-  body {
-    font-family: 'Arial', sans-serif;
-    background-color: #121212;
-    color: #e0e0e0;
-    line-height: 1.6;
-    margin: 0;
-  }
-  
-  header {
-    background-color: #1e1e1e;
-    padding: 20px;
-    text-align: center;
-    border-bottom: 2px solid #3f3f3f;
-  }
-  
-  header h1 {
-    font-size: 2.5rem;
-    color: #61dafb;
-  }
-  
-  header p {
-    font-size: 1.2rem;
-    color: #e0e0e0;
-  }
-  
-  nav ul {
-    list-style-type: none;
-    margin-top: 15px;
-  }
-  
-  nav ul li {
-    display: inline;
-    margin: 0 15px;
-  }
-  
-  nav ul li a {
-    color: #61dafb;
-    text-decoration: none;
-    font-weight: bold;
-  }
-  
-  nav ul li a:hover {
-    color: #e0e0e0;
-  }
-  
-  .section {
-    padding: 40px 20px;
-    text-align: center;
-  }
-  
-  .section h2 {
-    font-size: 2rem;
-    margin-bottom: 20px;
-    color: #61dafb;
-  }
-  
-  .project, .experience {
-    background-color: #1e1e1e;
-    margin: 20px auto;
-    padding: 20px;
-    border: 1px solid #3f3f3f;
-    width: 80%;
-    border-radius: 8px;
-  }
-  
-  .project h3, .experience h3 {
-    font-size: 1.5rem;
-    margin-bottom: 10px;
-  }
-  
-  .project p, .experience p {
-    font-size: 1rem;
-  }
-  
-  footer {
-    background-color: #1e1e1e;
-    padding: 20px;
-    text-align: center;
-    border-top: 2px solid #3f3f3f;
-  }
-  
-  footer p {
-    color: #757575;
-    font-size: 0.9rem;
-  }
-  
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #1b1b1b;
+  color: #e0e0e0;
+  line-height: 1.6;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+header {
+  background-color: #242424;
+  padding: 30px 0;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  border-bottom: 2px solid #444;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  color: #61dafb;
+}
+
+header p {
+  font-size: 1.1rem;
+  color: #bbb;
+}
+
+nav ul {
+  list-style-type: none;
+  margin-top: 20px;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 20px;
+}
+
+nav ul li a {
+  color: #61dafb;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+nav ul li a:hover {
+  color: #fff;
+}
+
+.section {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.about {
+  background-color: #242424;
+}
+
+.projects, .experience {
+  background-color: #1f1f1f;
+}
+
+.contact {
+  background-color: #242424;
+}
+
+.section h2 {
+  font-size: 2.2rem;
+  margin-bottom: 20px;
+  color: #61dafb;
+}
+
+.section p {
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+  color: #e0e0e0;
+}
+
+.project-list, .experience-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+}
+
+.project, .experience-item {
+  background-color: #333;
+  padding: 20px;
+  border-radius: 8px;
+  transition: transform 0.3s;
+}
+
+.project:hover, .experience-item:hover {
+  transform: translateY(-10px);
+}
+
+.project h3, .experience-item h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.project p, .experience-item p {
+  font-size: 1rem;
+}
+
+.contact p a {
+  color: #61dafb;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contact p a:hover {
+  color: #fff;
+}
+
+footer {
+  background-color: #1f1f1f;
+  padding: 20px;
+  text-align: center;
+  color: #757575;
+  font-size: 0.9rem;
+  border-top: 2px solid #444;
+}
