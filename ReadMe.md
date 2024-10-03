@@ -53,17 +53,21 @@ Bienvenue sur mon portfolio ! Ce dépôt contient un résumé de mes projets, ex
 - **Outils :** VSCode, GitHub, TensorFlow, Pytorch, OpenAI, LLama, Mistral AI
 
 <details>
-  <summary>Voir plus de détails sur les missions</summary>
+  <summary><strong>Voir plus de détails sur les missions</strong></summary>
+  <div style="padding-left: 20px;">
+    <h5>📌 Missions :</h5>
+    <ul>
+      <li>Automatisation des corrections de mauvaises pratiques avec IA.</li>
+      <li>Développement des services RESTful pour la gestion des données.</li>
+      <li>Gestion de la base de données PostgreSQL et analyse de données textuelles.</li>
+      <li>Utilisation d'API Open AI et comparaison avec LLama et Mistral AI pour la correction automatique de bugs.</li>
+    </ul>
 
-#### 📌 **Missions :**
-- Automatisation des corrections de mauvaises pratiques avec IA.
-- Développement des services RESTful pour la gestion des données.
-- Gestion de la base de données PostgreSQL et analyse de données textuelles.
-- Utilisation d'API Open AI et comparaison avec LLama et Mistral AI pour la correction automatique de bugs.
-
-#### 💡 **Résultats obtenus :**
-- **+30 %** de productivité dans la résolution des bugs et des dettes techniques.
-
+    <h5>💡 Résultats obtenus :</h5>
+    <ul>
+      <li><strong>+30 %</strong> de productivité dans la résolution des bugs et des dettes techniques.</li>
+    </ul>
+  </div>
 </details>
 
 ---
