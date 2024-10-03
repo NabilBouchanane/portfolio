@@ -15,36 +15,47 @@ body {
   width: 90%;
   margin: 0 auto;
   max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 header {
   background-color: #242424;
-  padding: 30px 0;
-  text-align: center;
-  position: sticky;
-  top: 0;
-  z-index: 1000;
+  padding: 20px 0;
   border-bottom: 2px solid #444;
 }
 
-header h1 {
-  font-size: 2.5rem;
-  color: #61dafb;
+.profile-info {
+  display: flex;
+  align-items: center;
 }
 
-header p {
-  font-size: 1.1rem;
+.profile-pic {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.profile-text h1 {
+  font-size: 1.8rem;
+  color: #61dafb;
+  margin-bottom: 5px;
+}
+
+.profile-text p {
+  font-size: 1rem;
   color: #bbb;
 }
 
 nav ul {
   list-style-type: none;
-  margin-top: 20px;
+  display: flex;
 }
 
 nav ul li {
-  display: inline;
-  margin: 0 20px;
+  margin-left: 30px;
 }
 
 nav ul li a {
@@ -61,66 +72,6 @@ nav ul li a:hover {
 .section {
   padding: 80px 0;
   text-align: center;
-}
-
-.about {
-  background-color: #242424;
-}
-
-.projects, .experience {
-  background-color: #1f1f1f;
-}
-
-.contact {
-  background-color: #242424;
-}
-
-.section h2 {
-  font-size: 2.2rem;
-  margin-bottom: 20px;
-  color: #61dafb;
-}
-
-.section p {
-  font-size: 1.1rem;
-  margin-bottom: 20px;
-  color: #e0e0e0;
-}
-
-.project-list, .experience-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 30px;
-}
-
-.project, .experience-item {
-  background-color: #333;
-  padding: 20px;
-  border-radius: 8px;
-  transition: transform 0.3s;
-}
-
-.project:hover, .experience-item:hover {
-  transform: translateY(-10px);
-}
-
-.project h3, .experience-item h3 {
-  font-size: 1.5rem;
-  margin-bottom: 10px;
-}
-
-.project p, .experience-item p {
-  font-size: 1rem;
-}
-
-.contact p a {
-  color: #61dafb;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-.contact p a:hover {
-  color: #fff;
 }
 
 footer {
