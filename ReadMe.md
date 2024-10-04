@@ -1,6 +1,6 @@
 # 💼 **Portfolio de Nabil**
 
-Bienvenue sur mon portfolio ! Ce dépôt contient un résumé de mes projets, expériences et compétences. Il est conçu pour vous donner un aperçu de mes réalisations et des services que je propose. Que vous soyez un potentiel client ou un recruteur, n'hésitez pas à explorer les différentes sections ci-dessous.
+Bienvenue sur mon portfolio ! Ce dépôt GitHub contient un résumé de mes projets, expériences et compétences. Il est conçu pour vous donner un aperçu de mes réalisations et des services que je propose. Bonne lecture !
 
 ---
 
@@ -13,11 +13,17 @@ Bienvenue sur mon portfolio ! Ce dépôt contient un résumé de mes projets, ex
 - **Langages de programmation :**  `Python`, `R`, `SQL`, `Java`, `JavaScript`, `TypeScript`, `Scala`, `C`, `C++`, `Prolog`, `Shell`, `Bash`, `HTML5`, `CSS`, `PHP`, `XML`, `UML`
 - **Frameworks :**  `Flask`, `Django`, `JEE`, `JUnit`, `Spring`, `Spring boot`, `AngularJs`, `ReactJs`, `Node`, `Flutter`
 - **Systèmes :** `Git`, `Yaml`, `Qbuild`, `Sonarqube`, `Doxygen`, `Kubernetes`, `Docker`, `Docker Nvidia`
-- **Cloud :** `Microsoft Azure Platform` (Data Factory, DataLake, DataBricks, Blob Storage), `GCP` (DataFlow, Looker, BigQuery, Vertex AI), `AWS` EC2
+- **Cloud :** `Microsoft Azure Platform` `(Data Factory, DataLake, DataBricks, Blob Storage)`, `GCP` `(DataFlow, Looker, BigQuery, Vertex AI)`, `AWS` `EC2`
 - **Traitement des données :** `Pandas`, `Numpy`, `Matplotlib`
 - **Traitement IA :** `TensorFlow`, `Pytorch`, `keras`
 - **Outils de design :** `Figma`, `Adobe XD`
-- **Autres :** Gestion de projet, Développement agile, SEO, etc...
+- **Autres :** `Gestion de projet, Développement agile, SEO, etc...`
+
+- **Méthodes :** `Projets Agile (Scrum/Safe) / Cycle en V / Lean Management`
+- **Savoir-Être :** `Leadership / Rigueur / Sens du relationnel/ Esprit d’équipe/ Curiosité / Autonomie / Capacité d'adaptation / Flexibilité / Gestion du stress / Capacité à travailler sous pression`
+- **Savoir-Faire :** `Coaching / Pair Programming/ Rédaction de veilles technologiques/ Animation de Rétrospective/ Estimation des tâches/ Animation de la Backlog/ Rédaction des bonnes pratiques / Revue de code / Analyse d’impact`
+
+
 
 ---
 
