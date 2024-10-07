@@ -47,7 +47,7 @@ Bienvenue sur mon portfolio ! Ce dépôt GitHub contient un résumé de mes proj
 
 # 🧑‍💻 **Expériences et Projets**
 
-## SQUALI | Software Engineer Data (Indépendant)
+## SQUALI | Software Engineer Data
 ### Juillet 2023 - Présent | Rennes
 **Projet :** Développement d’une application intégrant des modèles IA pour l'automatisation des corrections de programmation et optimisation des processus de développement logiciel.
 
@@ -78,8 +78,8 @@ Bienvenue sur mon portfolio ! Ce dépôt GitHub contient un résumé de mes proj
 
 ---
 
-## REDLETTER | Software Engineer Data (Indépendant)
-### Mars 2023 - Juillet 2023 | Nantes
+## REDLETTER | Software Engineer Data
+### Décembre 2023 - Janvier 2023 | Angers
 **Projet :** Conception et développement d’un outil de veille technologique basé sur l'intelligence artificielle, permettant la génération de résumés d'articles provenant de Reddit.
 
 #### 🔧 **Environnement Technique :**
@@ -90,22 +90,26 @@ Bienvenue sur mon portfolio ! Ce dépôt GitHub contient un résumé de mes proj
 - **Outils :** Git, VSCode, OpenAI API, Reddit API
 
 <details>
-  <summary>Voir plus de détails sur les missions</summary>
+  <summary><strong>Voir plus de détails sur les missions</strong></summary>
+  <div style="padding-left: 20px;">
+    <h5>📌 Missions :</h5>
+    <ul>
+      <li>Mise en place de web scrapping pour la récupération d'articles Reddit.</li>
+      <li>Développement d’un système de résumés automatiques personnalisés via des algorithmes d’IA.</li>
+      <li>Intégration d’un dashboard utilisateur pour personnaliser les thématiques de veille.</li>
+    </ul>
 
-#### 📌 **Missions :**
-- Mise en place de web scrapping pour la récupération d'articles Reddit.
-- Développement d’un système de résumés automatiques personnalisés via des algorithmes d’IA.
-- Intégration d’un dashboard utilisateur pour personnaliser les thématiques de veille.
-
-#### 💡 **Résultats obtenus :**
-- Réduction de **50 %** du temps nécessaire à la veille technologique pour les utilisateurs.
-
+    <h5>💡 Résultats obtenus :</h5>
+    <ul>
+      <li>Réduction de <strong>50 %</strong> du temps nécessaire à la veille technologique pour les utilisateurs.</li>
+    </ul>
+  </div>
 </details>
 
 ---
 
-## MANITOU | Software Engineer Data (Indépendant)
-### Octobre 2022 - Mars 2023 | Télétravail
+## MANITOU | Software Engineer Data
+### Decembre 2022 - Mai 2023 | Nantes
 **Projet :** Création d'une extension VScode utilisant des modèles IA pour la détection et l'autocorrection des bugs dans le code.
 
 #### 🔧 **Environnement Technique :**
@@ -115,22 +119,26 @@ Bienvenue sur mon portfolio ! Ce dépôt GitHub contient un résumé de mes proj
 - **Outils :** VSCode, Git, Docker, Jenkins, OpenAI API
 
 <details>
-  <summary>Voir plus de détails sur les missions</summary>
+  <summary><strong>Voir plus de détails sur les missions</strong></summary>
+  <div style="padding-left: 20px;">
+    <h5>📌 Missions :</h5>
+    <ul>
+      <li>Conception d'une extension pour VScode dédiée à l’autocorrection de bugs.</li>
+      <li>Intégration de modèles d’IA pour l’analyse des mauvaises pratiques de code.</li>
+      <li>Développement et maintenance continue de la solution avec des updates réguliers.</li>
+    </ul>
 
-#### 📌 **Missions :**
-- Conception d'une extension pour VScode dédiée à l’autocorrection de bugs.
-- Intégration de modèles d’IA pour l’analyse des mauvaises pratiques de code.
-- Développement et maintenance continue de la solution avec des updates réguliers.
-
-#### 💡 **Résultats obtenus :**
-- **20 %** de réduction des erreurs de développement par les utilisateurs de l'extension.
-
+    <h5>💡 Résultats obtenus :</h5>
+    <ul>
+      <li><strong>20 %</strong> de réduction des erreurs de développement par les utilisateurs de l'extension.</li>
+    </ul>
+  </div>
 </details>
 
 ---
 
-## SPECTRE BIOTECH | Data Scientist (Freelance)
-### Juin 2022 - Septembre 2022 | Paris
+## SPECTRE BIOTECH | Data Scientist
+### Septembre 2022 - Decembre 2022 | Paris
 **Projet :** Développement d’une plateforme de données EEG pour aider à la recherche et au diagnostic des troubles de la santé mentale.
 
 #### 🔧 **Environnement Technique :**
@@ -140,22 +148,26 @@ Bienvenue sur mon portfolio ! Ce dépôt GitHub contient un résumé de mes proj
 - **Outils :** GitHub, AWS, Docker, Jupyter, TensorFlow
 
 <details>
-  <summary>Voir plus de détails sur les missions</summary>
+  <summary><strong>Voir plus de détails sur les missions</strong></summary>
+  <div style="padding-left: 20px;">
+    <h5>📌 Missions :</h5>
+    <ul>
+      <li>Traitement et analyse des données EEG pour l’identification de schémas liés à la santé mentale.</li>
+      <li>Collaboration avec des équipes médicales pour définir les besoins de la plateforme.</li>
+      <li>Implémentation d'un modèle d'IA pour l'analyse automatisée des données.</li>
+    </ul>
 
-#### 📌 **Missions :**
-- Traitement et analyse des données EEG pour l’identification de schémas liés à la santé mentale.
-- Collaboration avec des équipes médicales pour définir les besoins de la plateforme.
-- Implémentation d'un modèle d'IA pour l'analyse automatisée des données.
-
-#### 💡 **Résultats obtenus :**
-- Amélioration de **25 %** de l'efficacité des diagnostics grâce à l’automatisation des analyses.
-
+    <h5>💡 Résultats obtenus :</h5>
+    <ul>
+      <li>Amélioration de <strong>25 %</strong> de l'efficacité des diagnostics grâce à l’automatisation des analyses.</li>
+    </ul>
+  </div>
 </details>
 
 ---
 
-## KUHN | Software Engineer (Freelance)
-### Janvier 2022 - Juin 2022 | Strasbourg
+## KUHN | Software Engineer
+### Avril 2022 - Aout 2022 | Nantes
 **Projet :** Développement d’un webservice permettant l’identification automatique des références de pièces usées via une photo sur l'application e-commerce de Kuhn.
 
 #### 🔧 **Environnement Technique :**
@@ -165,22 +177,26 @@ Bienvenue sur mon portfolio ! Ce dépôt GitHub contient un résumé de mes proj
 - **Outils :** Docker, Git, Jenkins, AWS S3
 
 <details>
-  <summary>Voir plus de détails sur les missions</summary>
+  <summary><strong>Voir plus de détails sur les missions</strong></summary>
+  <div style="padding-left: 20px;">
+    <h5>📌 Missions :</h5>
+    <ul>
+      <li>Développement d’un algorithme d’identification d’images pour les pièces détachées.</li>
+      <li>Intégration du webservice dans l'application e-commerce.</li>
+      <li>Optimisation de la précision de l'algorithme via des techniques de machine learning.</li>
+    </ul>
 
-#### 📌 **Missions :**
-- Développement d’un algorithme d’identification d’images pour les pièces détachées.
-- Intégration du webservice dans l'application e-commerce.
-- Optimisation de la précision de l'algorithme via des techniques de machine learning.
-
-#### 💡 **Résultats obtenus :**
-- Réduction de **40 %** des erreurs d’identification des pièces par les utilisateurs.
-
+    <h5>💡 Résultats obtenus :</h5>
+    <ul>
+      <li>Réduction de <strong>40 %</strong> des erreurs d’identification des pièces par les utilisateurs.</li>
+    </ul>
+  </div>
 </details>
 
 ---
 
-## LA BANQUE POSTALE | Data Scientist (Freelance)
-### Septembre 2021 - Décembre 2021 | Paris
+## LA BANQUE POSTALE | Data Scientist
+### Septembre 2021 - Décembre 2021 | Nantes
 **Projet :** Rédaction de newsletters mensuelles résumant les avancées majeures en intelligence artificielle.
 
 #### 🔧 **Environnement Technique :**
@@ -201,8 +217,8 @@ Bienvenue sur mon portfolio ! Ce dépôt GitHub contient un résumé de mes proj
 
 ---
 
-## CORTEX IA | Data Scientist (Freelance)
-### Mars 2021 - Août 2021 | Paris
+## CORTEX IA | Software Engineer Data
+### Mars 2021 - Août 2021 | Nantes
 **Projet :** Création d'une interface cerveau-machine pour identifier des états de pensée à partir de données numériques issues d'un casque neuronal.
 
 #### 🔧 **Environnement Technique :**
